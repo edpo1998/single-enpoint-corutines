@@ -1,0 +1,6 @@
+Flask 
+Flask-Cors
+requests
+flask-restx
+aiohttp
+httpx
